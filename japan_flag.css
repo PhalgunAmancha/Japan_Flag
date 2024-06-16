@@ -1,0 +1,27 @@
+html{
+    background-color: bisque;
+}
+.white-color{
+    background:white ;
+    width: 450px;
+    height: 250px;
+    position: relative;
+    top: 100px;
+    left: 250px;
+}
+
+.red-circle{
+    background-color: red;
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 70px;
+    left: 160px;
+}
+h1{
+    /* text-align: center; */
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
